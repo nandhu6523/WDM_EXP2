@@ -1,4 +1,6 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+
+### REG NO:212222220028
 ### DATE: 
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
